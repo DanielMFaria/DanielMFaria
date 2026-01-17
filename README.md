@@ -17,6 +17,7 @@ Sou um desenvolvedor com **+7 anos de experiência** no ecossistema **Java e Kot
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-1.5.12-4285F4?logo=jetpackcompose)
 
 **Mobile & Ferramentas:**
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
