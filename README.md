@@ -27,7 +27,7 @@ Sou um desenvolvedor com **+7 anos de experiência** no ecossistema **Java e Kot
 ---
 
 ### 📊 GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMFaria&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+![Daniel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielMFaria&theme=dracula&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMFaria&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
